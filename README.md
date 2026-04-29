@@ -2,7 +2,7 @@
 Robust feature extraction for visible-NIR image registration through unsupervised dual training with adaptive knowledge transfer
 
 This repository provides the official **TensorFlow/Keras** implementation of the model architecture and inference logic for the paper:  
-**"[Robust Feature Extraction for Visible-NIR Image Registration through Unsupervised Dual Training with Adaptive Knowledge Transfer]"**
+**"Robust Feature Extraction for Visible-NIR Image Registration through Unsupervised Dual Training with Adaptive Knowledge Transfer"**
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-red)](https://doi.org/10.1016/j.patcog.2026.113814)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
