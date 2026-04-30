@@ -28,5 +28,5 @@ BibTeX:
   author={Ling Chen, Zedong Tang, Xiangming Jiang},
   journal={Pattern Recognition},
   year={2026},
-  doi={[Your_DOI_Number](https://doi.org/10.1016/j.patcog.2026.113814)}
+  doi={https://doi.org/10.1016/j.patcog.2026.113814}
 }
