@@ -19,14 +19,15 @@ While the GitHub link was not present in the original publication, this is the o
 * **Architecture Definition**: Full transparency of the layers, connections, and hyperparameters used in the paper.
 * **Ready-to-Use**: Minimal setup required to initialize the model for testing or transfer learning.
 
-## 📝Citation
-If our model architecture or code assists in your research, please cite the following paper:
+## 📝 Citation
 
-BibTeX:
-@article{
+If you find our work helpful for your research, please cite:
+```bibtex
+@article{Chen2026Robust,
   title={Robust feature extraction for visible-NIR image registration through unsupervised dual training with adaptive knowledge transfer},
-  author={Ling Chen, Zedong Tang, Xiangming Jiang},
+  author={Chen, Ling and Tang, Zedong and Jiang, Xiangming},
   journal={Pattern Recognition},
   year={2026},
-  doi={https://doi.org/10.1016/j.patcog.2026.113814}
+  doi={10.1016/j.patcog.2026.113814},
+  url={[https://doi.org/10.1016/j.patcog.2026.113814](https://doi.org/10.1016/j.patcog.2026.113814)}
 }
