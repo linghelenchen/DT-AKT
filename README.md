@@ -29,5 +29,5 @@ If you find our work helpful for your research, please cite:
   journal={Pattern Recognition},
   year={2026},
   doi={10.1016/j.patcog.2026.113814},
-  url={[https://doi.org/10.1016/j.patcog.2026.113814](https://doi.org/10.1016/j.patcog.2026.113814)}
+  url={https://doi.org/10.1016/j.patcog.2026.113814}
 }
