@@ -23,7 +23,7 @@ While the GitHub link was not present in the original publication, this is the o
 
 If you find our work helpful for your research, please cite:
 ```bibtex
-@article{Chen2026Robust,
+@article{
   title={Robust feature extraction for visible-NIR image registration through unsupervised dual training with adaptive knowledge transfer},
   author={Chen, Ling and Tang, Zedong and Jiang, Xiangming},
   journal={Pattern Recognition},
