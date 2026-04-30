@@ -18,3 +18,15 @@ While the GitHub link was not present in the original publication, this is the o
 * **Keras Functional/Subclassing API**: Implementation using standard TensorFlow 2.10 patterns.
 * **Architecture Definition**: Full transparency of the layers, connections, and hyperparameters used in the paper.
 * **Ready-to-Use**: Minimal setup required to initialize the model for testing or transfer learning.
+
+## 📝Citation
+If our model architecture or code assists in your research, please cite the following paper:
+
+BibTeX:
+@article{
+  title={Robust feature extraction for visible-NIR image registration through unsupervised dual training with adaptive knowledge transfer},
+  author={Ling Chen, Zedong Tang, Xiangming Jiang},
+  journal={Pattern Recognition},
+  year={2026},
+  doi={[Your_DOI_Number](https://doi.org/10.1016/j.patcog.2026.113814)}
+}
